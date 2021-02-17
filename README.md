@@ -1,10 +1,10 @@
 # Wallpi
 Wallpaper App
 <p float="left">
-<img src="https://github.com/isml/Wallpi/blob/master/img/1.jpg" height="500" width="250">
-<img src="https://github.com/isml/Wallpi/blob/master/img/2.jpg" height="500" width="250">
-<img src="https://github.com/isml/Wallpi/blob/master/img/3.jpg" height="500" width="250">
-<img src="https://github.com/isml/Wallpi/blob/master/img/4.jpg" height="500" width="250">
+<img src="https://github.com/isml/Wallpi/blob/main/img/1.jpg" height="500" width="250">
+<img src="https://github.com/isml/Wallpi/blob/main/img/2.jpg" height="500" width="250">
+<img src="https://github.com/isml/Wallpi/blob/main/img/3.jpg" height="500" width="250">
+<img src="https://github.com/isml/Wallpi/blob/main/img/4.jpg" height="500" width="250">
   <img src="https://github.com/isml/Wallpi/blob/master/img/5.jpg" height="500" width="250">
 </p>
 <b></b>
