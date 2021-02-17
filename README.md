@@ -1,17 +1,14 @@
-# wallpaperapp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # Wallpi
+Wallpaper App
+<p float="left">
+<img src="https://github.com/isml/Wallpi/blob/master/img/1.jpg" height="500" width="250">
+<img src="https://github.com/isml/Wallpi/blob/master/img/2.jpg" height="500" width="250">
+<img src="https://github.com/isml/Wallpi/blob/master/img/3.jpg" height="500" width="250">
+<img src="https://github.com/isml/Wallpi/blob/master/img/4.jpg" height="500" width="250">
+</p>
+<b></b>
+Awesome wallpapers in this app.This app uses the pexels API.
+<h2>This Link is Google Play Store: <a href="https://play.google.com/store/apps/details?id=com.wallpi.Wallpi&hl=tr">Google Play Store Link</a></h2>
+
+After downloading this project, you can install the packages and use the application.
+Projeyi indirdikten sonra ortamınızda(Visual Studio Code veya Android Studio) açarak gerekli paket yüklemelerini yaparak çalıştırabilirsiniz.
